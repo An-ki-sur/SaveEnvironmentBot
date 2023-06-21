@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+requests
+ydb
+six
+geopy
